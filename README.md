@@ -1,7 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=cadudev&label=Profile%20views&color=0e75b6&style=flat" alt="cadudev" />
+
 # TO DO
+
 ### Frontend in React-Native. Application developed as a challenge for module 1 following the instructions of instructor Vinícius Fraga of the `Rocketseat` teaching platform
+
 ##
+
 ### Steps to run the applications
 
 ##### To start the frontend go to the root of the app folder, open your terminal and follow the steps below
